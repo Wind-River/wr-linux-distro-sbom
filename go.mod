@@ -10,6 +10,7 @@ go 1.21.0
 
 require (
 	github.com/anchore/syft v0.91.0
+	github.com/spdx/tools-golang v0.5.3
 	github.com/spf13/cobra v1.7.0
 	github.com/spf13/pflag v1.0.5
 	github.com/spf13/viper v1.16.0
@@ -138,7 +139,6 @@ require (
 	github.com/shopspring/decimal v1.2.0 // indirect
 	github.com/sirupsen/logrus v1.9.3 // indirect
 	github.com/skeema/knownhosts v1.2.0 // indirect
-	github.com/spdx/tools-golang v0.5.3 // indirect
 	github.com/spf13/afero v1.9.5 // indirect
 	github.com/spf13/cast v1.5.1 // indirect
 	github.com/spf13/jwalterweatherman v1.1.0 // indirect
